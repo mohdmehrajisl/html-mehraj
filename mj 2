@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>this is myheader
+<nav>
+    <a href="#travel">travel</a>
+</nav>
+
+    </header>
+<main>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis quae optio necessitatibus neque molestiae ullam eveniet accusamus illum consectetur iste dicta quod, vero voluptate est aliquam saepe impedit asperiores corporis laborum blanditiis. Quae ipsam quas, expedita nunt delectus, quibusdam perferendis, debitis reiciendis repellendus ipsam explicabo unde nemo odio sunt? Eum deleniti similique quae optio impedit exercitationem aut assumenda magnam nesciunt.</p>
+    <p id="travel">
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid laboriosam, assumenda rerum sunt nemo laborum. Aperiam asperiores reprehenderit, magni iusto aspernatur similique animi natus doloremque!</p>
+</main>
+
+<table border="2">
+    <caption>kaif baba jalali miya bio</caption>
+    <tr><th colspan="3">boss</th></tr>
+   <tr> <th>s no</th> <th>name</th> <th>group</th> </tr>
+        <tr>
+            <td>1</td>
+            <td>kaif</td>
+            <td>mpc</td>
+        </tr>
+     <tr>
+        <td colspan="2">kaif ba ka</td>
+     </tr>
+</table>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rklidcZ-aLU?si=lfntF57WiB-pjM6T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe  width="600"  height="500"     src="https://en.wikipedia.org/wiki/Territorial_claims_in_Antarctica" ></iframe>
+
+
+</body>
+</html>
