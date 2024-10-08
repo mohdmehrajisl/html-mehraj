@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <header>mohd mehraj 1\10\2024</header><hr>
+    <main>
+<section>mehraj</section><!--group-->
+<section>mohd</section>
+<section><h1>paisa college</h1> admission are open free uniform</section>
+<article>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse eius placeat sit officia fuga! Consectetur alias harum culpa. Explicabo quae in ipsam! Adipisci recusandae rem qui dolorum voluptas quo iste.</article>
+
+<aside>
+    this is not related ad for adds<!--2.20-->
+</aside>
+    </main>
+
+<!-- target kaiku use kare bolrr to same webpage ducri web site khulti-->
+     <a href="https://www.google.com/" target="_blank"><button>google</button></a><br>
+     <!-- khatam -->
+      <video src="sufi.mp4" loop height="250" width="250"></video>
+<!--  --><hr>
+
+    <b>bod</b>
+    <i>italic</i><br>
+    <u>underline</u><br>
+    <s>strikr</s>
+<img src="don.k.jpg" alt="car"height="100"width="150">  
+
+    <pre><!--jaisa ka waisa-->
+    kejfbcdjjb   
+    nufgu   ifivj
+</pre>
+    <p>   <!--paragraph-->
+        kfhfh
+    </p>
+    <big>mehraj</big><br>
+    <small>kaif</small>
+    <p>
+        (a=b)=a<sup>2</sup>+b<sub>4</sub>=2kaif
+    </p>
+    <hr>
+<footer>
+    -firs
+
+
+
+</footer>
+</body>
+</html>
