@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>list</title>
+</head>
+<body>
+     <div> <!--div bole to container block-->
+    <p id="para">this is paragraph</p> <p id="para">this is paragraph</p>     <!--block or inline elements-->
+    <a href="#para"><button>gooo</button></a>
+    </div>
+<p>
+Lorem ipsum <span id="doller">doller</span> sit amet.
+</p>
+
+<ol type="A">
+<li>html</li>
+            <ol type="a">     <!--i,I dal sakte-->
+                <li>level 1</li>
+                <li>level2</li>
+            </ol>
+<li>c</li>
+<li>cpp</li>
+<li>java</li>
+</ol>
+
+<ul>
+   <li>learning</li>
+  <li>coding</li>
+  <li>cycle</li>
+</ul>
+
+<form action="/contact.me" method="post" >
+username kong: <input type="text" placeholder="bhai"><br>
+<label for="password">pass</label>
+ <input type="password" id="password" value="123456">
+<input type="submit">
+</form>
+
+<form action="">    <!--video3:00-->
+king kong<input type="text" name="username" value="default rehta change kar sakte">
+</form>
+
+<form action="">
+    <label for="text" >connect karta</label>
+    <input type="text" id="text" value="king"><br>
+    <hr>
+    date bhai:<input type="date"><hr>
+    file bhai: <input type="file"><br>
+    color: <input type="color"><br>
+    range: <input type="range"><br>
+    poke me <input type="button" value="poked"><br>
+    submit <input type="submit">
+      <!--special type button-->
+<br>
+<label for="male">male+</label>
+<input type="radio" id="male" name="don gender" ><br>
+<label for="female">female-</label>
+<input type="radio" id="female" name="don gender"><br>
+<label for="other">other+-</label>
+<input type="radio" id="other" name="don gender">
+
+<br>
+<label for="c">c</label>
+<input type="checkbox" id="c" name="lang" value="c"><br>
+<label for="java">java</label>
+<input type="checkbox" id="java" name="lang2" value="java"><br>
+<label for="python">python</label>
+<input type="checkbox" id="python" name="lang3" value="python">
+<!-- value optional dikhri video 3:25 -->
+</form>
+
+<form>
+    <label for="country">select mama</label>
+<select name="country" id="country">
+<option value="uk">uk</option>
+<option value="us">us</option>
+<option value="india">india</option>
+<option value="saudi">saudi</option>
+</select>
+</form>
+
+<form>
+<textarea id="king" rows="4" cols="10">default text rehta</textarea>
+</form>
+</body>
+</html>
